@@ -1,0 +1,7 @@
+User Sotries
+
+-User registers on application
+-If a new sign up and user is not part of a group which has access to a project user will be given an option to add a testproject for trying out the application
+-login will be email based
+-invite other user using email address
+-
